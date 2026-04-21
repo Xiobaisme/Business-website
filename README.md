@@ -340,14 +340,13 @@ dengan tetap mencantumkan atribusi ke penulis asli.
 
 ## 👤 Author
 
-**NOVA Agency**
+**XiobaiiShikii**
 - Website: [novaagency.com](https://novaagency.com)
-- Email: hello@novaagency.com
-- GitHub: [@novaagency](https://github.com/novaagency)
-- Instagram: [@novaagency.id](https://instagram.com/novaagency.id)
+- GitHub: [@Xiobaisme](https://github.com/Xiobaisme)
+- X: [@xiobai06](https://x.com/xiobai06)
 
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ oleh <strong>NOVA Agency</strong> — Jakarta, Indonesia
+  Dibuat dengan ❤️ oleh <strong>Xiobaiishikii</strong> — Jakarta, Indonesia
 </p>
